@@ -1,0 +1,4 @@
+Step 1: Environment Setup and Libraries Installation
+First, make sure you have Python installed along with necessary libraries like TensorFlow and scikit-learn.
+
+** pip install tensorflow scikit-learn pandas matplotlib
